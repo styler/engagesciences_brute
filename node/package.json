@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^3.1.0",
-    "got": "^6.6.1"
+    "got": "^11.8.5"
   }
 }
